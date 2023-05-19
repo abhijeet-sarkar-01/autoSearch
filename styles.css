@@ -1,0 +1,73 @@
+#click{
+    text-shadow: 4px 4px 0px #ffd319;
+    text-decoration: none;
+    color: #ff2975;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    font-size: 6rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#click:hover{
+    color:#0161E8 ;
+    text-shadow: 4px 4px 0px #00F1FF;
+}
+
+.footer{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifs;
+    position: absolute;
+    bottom: 0px;
+    left: 460px;
+}
+
+.me{
+    font-size: 1.2rem;
+}
+
+.abhijeet{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: midnightblue;
+
+}
+.clickCounter{
+    font-size: 2.5rem;
+    position: absolute;
+    top: 200px;
+    left: 870px;
+}
+
+#counter{
+    color: #00F1FF;
+}
+
+.bodyBlack{
+    background-color: #000;
+}
+
+.pWhite{
+    color: white;
+}
+
+.pAbhijeet{
+    color: #ffd319;
+}
+
+.happyCat{
+    width: 150px;
+    height: 150px;
+}
+
+.happyCat{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+
+#theme{
+    position: absolute;
+    top: 30px;
+    left: 1235px;
+}
